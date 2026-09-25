@@ -1,6 +1,6 @@
 import pytest
 
-from my_project import MyClass
+from Tac-2 import MyClass
 
 
 # can test using classes, name must begin with `Test`
